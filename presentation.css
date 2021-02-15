@@ -8,3 +8,7 @@ h3{
 div{
  border: 4mm ridge rgba(170, 50, 220, .6);
 }
+
+body{
+    backround-color: red;
+}
