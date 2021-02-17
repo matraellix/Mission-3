@@ -10,8 +10,10 @@ div{
 }
 
 body{
-    backround-color: red;
+    background-color: red;
+    border-radius: 30%;
 }
 p{
   color: yellow;
+
 }
